@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Atomic'/>
+        <page name='Untitled Page 2'/>
+        <page name='NSoperation'/>
+        <page name='Simple Operations'/>
+        <page name='1. Basic Queues'/>
+        <page name='2. Atomic'/>
+        <page name='3. NSOperation'/>
+        <page name='4. Dispatch Group'/>
+        <page name='5. Dispatch Samaphore'/>
+    </pages>
+</playground>
